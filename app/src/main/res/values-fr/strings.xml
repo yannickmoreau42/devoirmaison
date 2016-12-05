@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevoirMaison</string>
+    <string name="textView1">activite principale</string>
+    <string name="textView2">activite secondaire</string>
+    <string name="button1">Aller vers activite 2</string>
+</resources>
